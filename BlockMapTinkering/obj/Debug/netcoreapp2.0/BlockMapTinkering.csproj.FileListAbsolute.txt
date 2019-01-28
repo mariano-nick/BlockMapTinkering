@@ -1,0 +1,11 @@
+c:\users\nick\source\repos\BlockMapTinkering\BlockMapTinkering\bin\Debug\netcoreapp2.0\BlockMapTinkering.deps.json
+c:\users\nick\source\repos\BlockMapTinkering\BlockMapTinkering\bin\Debug\netcoreapp2.0\BlockMapTinkering.runtimeconfig.json
+c:\users\nick\source\repos\BlockMapTinkering\BlockMapTinkering\bin\Debug\netcoreapp2.0\BlockMapTinkering.runtimeconfig.dev.json
+c:\users\nick\source\repos\BlockMapTinkering\BlockMapTinkering\bin\Debug\netcoreapp2.0\BlockMapTinkering.dll
+c:\users\nick\source\repos\BlockMapTinkering\BlockMapTinkering\bin\Debug\netcoreapp2.0\BlockMapTinkering.pdb
+c:\users\nick\source\repos\BlockMapTinkering\BlockMapTinkering\obj\Debug\netcoreapp2.0\BlockMapTinkering.csprojResolveAssemblyReference.cache
+c:\users\nick\source\repos\BlockMapTinkering\BlockMapTinkering\obj\Debug\netcoreapp2.0\BlockMapTinkering.csproj.CoreCompileInputs.cache
+c:\users\nick\source\repos\BlockMapTinkering\BlockMapTinkering\obj\Debug\netcoreapp2.0\BlockMapTinkering.AssemblyInfoInputs.cache
+c:\users\nick\source\repos\BlockMapTinkering\BlockMapTinkering\obj\Debug\netcoreapp2.0\BlockMapTinkering.AssemblyInfo.cs
+c:\users\nick\source\repos\BlockMapTinkering\BlockMapTinkering\obj\Debug\netcoreapp2.0\BlockMapTinkering.dll
+c:\users\nick\source\repos\BlockMapTinkering\BlockMapTinkering\obj\Debug\netcoreapp2.0\BlockMapTinkering.pdb
